@@ -39,6 +39,7 @@ Happy Thanksgiving!
 - [Biomorphs](https://users.monash.edu.au/~aland/BiologicalBits/src/html/index.html) - click on the pictures to apply selection, click "mutation" button to apply mutation
 - [Avida-Ed](https://avida-ed.msu.edu/app/AvidaED.html) - this is designed to teach biology, but is actually using genetic programming (evolved assembly code)
 - [Visualization of evolving controllers for a digital car](https://twitter.com/hardmaru/status/1090509360239828994?s=20) - great Twtiter thread
+- [Aagos](https://lalejini.com/Aagos/web/Aagos.html) - a system that we built to answer some questions about evolution, both for the purposes of biology and evolutionary computation
 - [Slime volleyball](https://otoro.net/slimevolley/) - evolved neural networks playing slime volleyball (you can play against them too!)
 - [MAP-Elites robotic arm](http://www.cse.msu.edu/~ofria/MAP-Elites/index.html) - the task is for a robotic arm to figure out how to reach a position in the smoothest way. Circle colors indicate the fitness of the best solution for that position (click on them to see it). Note that this app uses MAP-Elites, which works slightly different from other evolutionary algorithms.
 - [Dishtiny](https://mmore500.com/dishtiny/master/) - groups of evolved programs working together to take in resources
