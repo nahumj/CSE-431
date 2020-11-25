@@ -31,6 +31,9 @@ Happy Thanksgiving!
 ## Evolutionary Algorithms to play with
 
 - [Evolving robots](https://evolve-a-robot.github.io)
+- [Boxcar 2d](https://rednuht.org/genetic_cars_2/) - evolve 2D cars that can drive along a bumpy track
+- [Genetic walkers](https://rednuht.org/genetic_walkers/) - evolve bipedal walking
+- [Genetic cat](https://rednuht.org/geneticat/) - evolving a cat that can jump onto a shelf
 - [Evolving 2D agents](https://jonahrosenblum.com/simulation/) - here a population of agents is evolving to avoid walls, eat other agents, and avoid being eaten
 - [Picbreeder](http://picbreeder.org/) - evolve your own images
 - [Biomorphs](https://users.monash.edu.au/~aland/BiologicalBits/src/html/index.html) - click on the pictures to apply selection, click "mutation" button to apply mutation
