@@ -13,18 +13,18 @@ author_info: true
 
 Below are the documents and links needed for Fall 2021.
 
-**[Syllabus](https://docs.google.com/document/d/1G2RuJX-hPglPiDFyEGytauunPxQpi-AI4FyKuud73FI/edit?usp=sharing)** - provides basic information about the course including how you will be graded.
+**[Syllabus](https://nahumj.github.io/CSE-431/syllabus)** - provides basic information about the course including how you will be graded.
 
-**[Piazza](piazza.com/msu/fall2021/cse431/home)** a place for asynchronous discussions and Q&A sessions.
-
-**Zoom** will be used for all class sessions.  The Zoom link has been e-mailed to all students and can be found on Piazza.
+**[Piazza](https://piazza.com/class/kst3t6l9dxi6t0)** a place for asynchronous discussions and Q&A sessions.
 
 Below are the week-by-week topics that will be covered.  Links will be added at least 24 hours before the first class each week (and often sooner).  The current week will be in bold in the directory on the left of this page.
 
 
 # Due dates
 
-- TBD
+- Every friday: weekly lecture review
+- Homework: TBD
+- Exams: TBD
 
 
 # Current course content
