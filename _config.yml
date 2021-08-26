@@ -1,21 +1,21 @@
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 title: CSE 431 - Algorithm Engineering
-subtitle: Fall Semester 2020
-description: Materials for the Fall Semester 2020 version of CSE 431 at Michigan State University, taught by Emily Dolson
+subtitle: Fall Semester 2021
+description: Materials for the Fall Semester 2021 version of CSE 431 at Michigan State University, taught by Josh Nahum
 plugins: [jekyll-include-cache]
 repository: "emilydolson/CSE-431-FS-2020"
 search: true
 
 author:
-  name: Emily Dolson
-  bio:  Assistant Professor in Computer Science & Engineering and Ecology, Evolution, & Behavior at Michigan State University
+  name: Josh Nahum
+  bio:  Teaching Specialist in Computer Science & Engineering at Michigan State University
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://emilyldolson.com"
+      url: "http://nahum.us"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/emilydolson"      
+      url: "https://github.com/nahumj"      
 
 collections:
   weeks:
