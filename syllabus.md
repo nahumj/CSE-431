@@ -8,18 +8,17 @@ toc_icon: "cog"
 
 # General information:
 
-## Instructor: Emily Dolson
-- Pronouns: she/her
-- E-mail: dolsonem@cse.msu.edu (course-related contact should be through Piazza)
-- Office: EB 3582 (but I’ll be working from home this semester)
+## Instructor: Josh Nahum
+- Pronouns: he/him
+- E-mail: Not Provided (course-related contact should be through Piazza)
+- Office: EB 3504 (but I’ll be working from home this semester)
         
 ## Teaching Assistants:    
-- Vincent Ragusa (pronouns: he/him)
-- Ali Saffary (pronouns: he/him)
+- Matthew Moreno (pronouns: he/him)
+- Quinn James (pronouns: he/him)
 
-## Office Hours:     
-- Dolson – Mondays 4:20pm (after class, in class zoom room) and by appointment.
-- Saffary – M/W/F 10:00 am - 11:00 am (link to Zoom room on Piazza)  
+## Help Room Hours:     
+- TBD
 
 ## Textbook: 
 
@@ -27,7 +26,7 @@ There are no required textbooks for this course. If you would like an additional
 
 ## Meeting time: 
 
-M/W 3pm-4:20, Zoom (link sent by e-mail and on Piazza)
+M/W 3pm-4:20, STEM 2201
 
 ## Credit hours: 3
 
@@ -44,12 +43,12 @@ Advanced techniques for designing and implementing correct and efficient algorit
 Internet connection, computer, ability to access MediaSpace, Piazza, and Mimir. Note: if you have trouble accessing any of these resources due to geographical restrictions, talk to the instructor and we’ll figure out a solution.
 
 ## Course delivery format: 
+Lectures will be provided via pre-recorded videos. Assigned in-person class time will be discussion, demonstrations, activities and assignment assistance. Due to the pandemic, all in-person time will be recorded and uploaded to this website. Atttendance is optional and will not affect your grade. 
 
-This course will be delivered completely online. Synchronous meetings will be provided, but students are also allowed to take the course in an asynchronous format. We will use the following platforms:
-- Course website as an index for all course materials
-- [Mimir](https://class.mimir.io) for homework assignments
-- [Piazza](https://piazza.com/class/kdj21kxhup2xv) for all discussions outside of class time
-- Zoom (link e-mailed and on Piazza) for all synchronous class sessions and office hours. If you need help using Zoom, see this resource: http://www.cse.msu.edu/Students/Current_Undergrad/UsingZoom.php
+## Pandemic Specific Content:
+In accordance with University regulations (and health expert recommendations), there is a mandatory mask wearing policy for the building and course. Failing to properly wear a mask will result in a warning, then removal from the class and discplinary actions. Masks are to be worn at all times in the classroom, which unfortunately means no eating or drinking during class.
+
+Additionally, if you would prefer to not attend class, there is no need to inform course staff, just please view that session's recording. Do not attend class if you have any reason to not do so (e.g. symptoms, exposure, quarantining, anxiety).
 
 ## Class Recordings:  
 
@@ -65,11 +64,11 @@ Note that the above restrictions apply only to recordings of class sessions. All
 ## Homework assignments
 
 There will be six homework assignments, each worth 10% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
-All assignments will be due at 11:59pm Michigan time on the due date. You will lose 10% off your maximum grade per day late, to a cap of five days (and 50% off), after which it will not be accepted.  We do understand that unexpected events befall even the most dedicated student, so we will provide 5 free late days that can be used on a single assignment or spread across assignments without a penalty. Do not waste this extension or feel obligated to use it; the goal is for it to cover all unforeseen circumstances. 
+All assignments will be due at 10pm Michigan time on the due date. 
 
 ## Lecture review assignments
 
-There will be 15 lecture review assignments, each worth 1% - 2% of your grade. These will be due every friday at 11:59pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
+There will be 15 lecture review assignments, each worth 1% - 2% of your grade. These will be due every Friday at 10pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
 
 ## Exams
 
@@ -93,15 +92,10 @@ The goal of this class is for you to learn how to effectively design and impleme
 
 ## Policies:
 
-- Students are expected to watch all required videos (as indicated on the course website) either as part of the synchronous class or asynchronous on their own. Additionally, students are expected to monitor Piazza, which will be used as the communication forum for this course.
+- Students are expected to watch all required videos (as indicated on the course website) and attend the synchronous class or watch the recordings asynchronous on their own. Additionally, students are expected to monitor Piazza, which will be used as the communication forum for this course.
 - Inform Your Instructor of Any Accommodations Needed
 - Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to me at the start of the term and/or two weeks prior to the accommodation date (test, project, etc). Requests received after this date will be honored whenever possible.
 
-## Drops and Adds
-
-The last day to add this course is the end of the first week of classes. The last day to drop this course with a 100 percent refund and no grade reported is 9/28/20 (8:00 PM). The last day to drop this course with no refund and no grade reported is 10/21/20 (8:00 PM). You should immediately make a copy of your amended schedule to verify that you have added or dropped this course.  The details about the academic calendar can be found at https://reg.msu.edu/ROInfo/Calendar/Academic.aspx.
-
-Tuition refund period Details can be found at https://reg.msu.edu/ROInfo/Calendar/Academic.aspx
 
 ## Religious observance: 
 
@@ -109,7 +103,7 @@ Michigan State University has long had a policy to permit students, faculty/acad
 
 ## Final Exam Policy 
 
-can be found at https://reg.msu.edu/ROInfo/Calendar/FinalExam.aspx
+Can be found at https://reg.msu.edu/ROInfo/Calendar/FinalExam.aspx
 
 ## The Office of Institutional Equity policies 
 can be found at: 
