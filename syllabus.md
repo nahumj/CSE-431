@@ -86,7 +86,11 @@ Academic Dishonesty: Because a primary goal of this course is to teach professio
 - Exploiting loopholes in auto-grading scripts to get points on a homework without actually solving the stated problem.
 - Facilitating another student in any of these activities.
 
-# General Notes
+### Department Policy Concerning The Use Of Chegg and Similar Sites
+> This course has adopted the [Chegg and Similar Sites policy](https://www.cse.msu.edu/Students/Current_Undergrad/Chegg/). Submission of student work (e.g. assignments and/or exam solutions) based on those found on Chegg, Brainly, Quizlet, and other similar websites will result in an Academic Dishonesty Report (ADR) and an automatic failing grade of zero (0.0) for the course. The ADR for students personally posting questions from assignments or exams to these sites will request additional sanctions.
+
+
+## General Notes
 
 The goal of this class is for you to learn how to effectively design and implement algorithms. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
 
