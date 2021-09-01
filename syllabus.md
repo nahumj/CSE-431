@@ -55,7 +55,7 @@ Additionally, if you would prefer to not attend class, there is no need to infor
 Each class session of this course will be recorded.   The recordings will be available to students registered for this class. This is intended to supplement the classroom experience. Students  are  expected  to  follow  appropriate  University  policies  and  maintain  the  security  of passwords  used  to  access  recorded  lectures.   Recordings  may  not  be  reproduced,  shared  with those  not  in the  class,  or  uploaded  to  other  online  environments.   Doing so may result in disciplinary action.   If  the  instructor  or  another University  office  plan  other  uses  for  the  recordings beyond  this  class,  students  identifiable  in  the  recordings  will  be  notified  to  request  consent  prior to  such use. 
 Note that the above restrictions apply only to recordings of class sessions. All videos recorded ahead of time by the instructor may be freely shared. Check the permissions on any supplemental videos recorded by people other than the instructor before sharing them (although most of them shouldn’t have restrictions).
 
-# Course organization
+# Course Organization
 
 ## Grading: 
 
@@ -72,7 +72,7 @@ There will be at least 15 lecture review assignments, each worth 1% of your grad
 
 ## Exams
 
-There will be two exams (a midterm and a final). One week before each exam, we will provide a detailed scoring guide and description of the possible questions so that you will know exactly what to expect.  Exams will consist of a 15 minute conversation via Zoom with the instructor or a TA. We know this exam format may be new to many of you, but given the remote format of the course we think it is the best option (for those of you hoping to get a software development job in industry, it will also be good practice for technical interviews). Our goal is to do everything we can to minimize the stress associated with this exam format - note that each exam only accounts for 10% of your final grade. That said, note that if you fail an exam we may schedule a follow-up in which we audit some of your homework solutions to ensure that they are your own work.
+There will be two exams (a midterm and a final). One week before each exam, we will provide a detailed scoring guide and description of the possible questions so that you will know exactly what to expect.  Exams will consist of a ~20 minute conversation via Zoom with the instructor or a TA. We know this exam format may be new to many of you, but given the remote format of the course we think it is the best option (for those of you hoping to get a software development job in industry, it will also be good practice for technical interviews). Our goal is to do everything we can to minimize the stress associated with this exam format - note that each exam only accounts for less than 20% of your final grade.
 
 ## Grading
 
@@ -89,14 +89,13 @@ Academic Dishonesty: Because a primary goal of this course is to teach professio
 ### Department Policy Concerning The Use Of Chegg and Similar Sites
 > This course has adopted the [Chegg and Similar Sites policy](https://www.cse.msu.edu/Students/Current_Undergrad/Chegg/). Submission of student work (e.g. assignments and/or exam solutions) based on those found on Chegg, Brainly, Quizlet, and other similar websites will result in an Academic Dishonesty Report (ADR) and an automatic failing grade of zero (0.0) for the course. The ADR for students personally posting questions from assignments or exams to these sites will request additional sanctions.
 
-
 ## General Notes
 
 The goal of this class is for you to learn how to effectively design and implement algorithms. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
 
 ## Policies:
 
-- Students are expected to watch all required videos (as indicated on the course website) and attend the synchronous class or watch the recordings asynchronous on their own. Additionally, students are expected to monitor Piazza, which will be used as the communication forum for this course.
+- Students are expected to watch all required videos (as indicated on the course website) and attend the synchronous class or watch the recordings asynchronously on their own. Additionally, students are expected to monitor Piazza, which will be used as the communication forum for this course.
 - Inform Your Instructor of Any Accommodations Needed
 - Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to me at the start of the term and/or two weeks prior to the accommodation date (test, project, etc). Requests received after this date will be honored whenever possible.
 
@@ -104,10 +103,6 @@ The goal of this class is for you to learn how to effectively design and impleme
 ## Religious observance: 
 
 Michigan State University has long had a policy to permit students, faculty/academic staff, and support staff to observe those holidays set aside by their chosen religious faith. If you wish to be absent from class to observe a religious holiday, make arrangements in advance with the instructor. 
-
-## Final Exam Policy 
-
-Can be found at https://reg.msu.edu/ROInfo/Calendar/FinalExam.aspx
 
 ## The Office of Institutional Equity policies 
 can be found at: 
