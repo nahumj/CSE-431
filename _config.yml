@@ -3,7 +3,7 @@ title: CSE 431 - Algorithm Engineering
 subtitle: Fall Semester 2021
 description: Materials for the Fall Semester 2021 version of CSE 431 at Michigan State University, taught by Josh Nahum
 plugins: [jekyll-include-cache]
-repository: "emilydolson/CSE-431-FS-2020"
+repository: "nahumj/CSE-431"
 search: true
 
 author:
