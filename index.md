@@ -22,9 +22,9 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
 
 # Due dates
 
-- Every friday: weekly lecture review
-- Homework: TBD
-- Exams: TBD
+- Weekly Lecture Review, every Friday at 10pm
+- Homework: Certain Thursdays at 10pm
+- Exams: Individualy scheduled during the week of 2021-10-25 and the week of 2021-12-13.
 
 
 # Current course content
