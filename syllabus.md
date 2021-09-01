@@ -59,7 +59,7 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Grading: 
 
-60% Homeworks ; 15% Lecture Reviews; 10% Midterm Exam ; 15% Final Exam
+60% Homeworks ; 13% Lecture Reviews; 10% Midterm Exam ; 17% Final Exam
 
 ## Homework assignments
 
@@ -68,7 +68,7 @@ All assignments will be due at 10pm Michigan time on the due date.
 
 ## Lecture review assignments
 
-There will be 15 lecture review assignments, each worth 1% of your grade. These will be due every Friday at 10pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
+There will be at least 15 lecture review assignments, each worth 1% of your grade. These will be due every Friday at 10pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
 
 ## Exams
 
