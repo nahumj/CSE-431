@@ -78,7 +78,10 @@ There will be two exams (a midterm and a final). One week before each exam, we w
 
 We will determine your final grade based on your scores on the homework assignments, quizzes and exams, as described above. By default, you need 90% of the points to receive a 4.0, 85% for a 3.5, 80% for a 3.0, 75% for a 2.5, 70% for a 2.0, 65% for a 1.5, and 60% for a 1.0.  We reserve the right to adjust these numbers later in the term if needed. 
 Note that at the end of the semester we often receive requests from students with borderline scores to be bumped up to the next letter grade. In order to do this fairly, we need to have some additional piece of evidence beyond assignments and exams that suggests that you have mastered the material. The most likely way for you to demonstrate this is through participation. If you participate in the synchronous portion of class or on Piazza, you provide us with another source of information as to how well you are learning the material, and how much effort you are putting into the course.  We can use this information to help counterbalance a difficulty with exams or assignments.  Let's have an active class!  Class participation will never harm your grade; always ask any questions you may have about the material.  Likewise, getting “Good Question” or “Good Answer” flags on Piazza is another source of information for us to help raise your grade.
-Academic Dishonesty: Because a primary goal of this course is to teach professionalism, any academic dishonesty will be viewed as evidence that this goal has not been achieved, and will be grounds for receiving a failing grade on the assignment, the exam, or in the course as a whole.   Examples of academic dishonesty include (but are not limited to):
+
+
+## Academic Dishonesty
+Because a primary goal of this course is to teach professionalism, any academic dishonesty will be viewed as evidence that this goal has not been achieved, and will be grounds for receiving a failing grade on the assignment, the exam, or in the course as a whole.   Examples of academic dishonesty include (but are not limited to):
 - Copying another student’s code or exam answers.
 - Using code implemented by someone else to solve the specific assigned question (i.e., don’t get someone else to do your project for you!)
 - Using any code implemented by someone else without attributing proper credit (i.e., if you take code off of StackOverflow, provide a link to it in a comment!)
@@ -89,7 +92,7 @@ Academic Dishonesty: Because a primary goal of this course is to teach professio
 ### Department Policy Concerning The Use Of Chegg and Similar Sites
 > This course has adopted the [Chegg and Similar Sites policy](https://www.cse.msu.edu/Students/Current_Undergrad/Chegg/). Submission of student work (e.g. assignments and/or exam solutions) based on those found on Chegg, Brainly, Quizlet, and other similar websites will result in an Academic Dishonesty Report (ADR) and an automatic failing grade of zero (0.0) for the course. The ADR for students personally posting questions from assignments or exams to these sites will request additional sanctions.
 
-## General Notes
+# General Notes
 
 The goal of this class is for you to learn how to effectively design and implement algorithms. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
 
