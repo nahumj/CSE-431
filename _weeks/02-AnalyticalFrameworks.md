@@ -12,7 +12,7 @@ date: 2021-09-06 00:00:00
 * Complexity Classes
 * Divide and Conquer
 
-[Lecture Slides]({{ site.baseurl }}{% link _weeks/week2/./week2/Week-2-Notation.ppt) %})
+[Lecture Slides](https://github.com/nahumj/CSE-431/raw/master/_weeks/week2/Week-2-Notation.ppt)
 [Slides](./week2/./week2/Week-2-Notation.ppt)
 
 Recorded Lecture To be posted
