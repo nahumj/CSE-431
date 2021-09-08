@@ -12,7 +12,7 @@ date: 2021-09-06 00:00:00
 * Complexity Classes
 * Divide and Conquer
 
-[Slides](week2/Week-2-Notation.ppt)
+[Slides](./week2/Week-2-Notation.ppt)
 
 Recorded Lecture To be posted
 
