@@ -26,6 +26,9 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
 - Homework: Certain Thursdays at 10pm
 - Exams: Individualy scheduled during the week of 2021-10-25 and the week of 2021-12-13.
 
+# Help Room
+- Offered from 5pm-7pm on Mondays, Tuesdays, Wednesdays, and Thursdays in [https://msu.zoom.us/j/91416543573](https://msu.zoom.us/j/91416543573).
+
 
 # Current course content
 
