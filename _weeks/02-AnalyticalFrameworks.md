@@ -13,7 +13,7 @@ date: 2021-09-06 00:00:00
 * Divide and Conquer
 
 [Lecture Slides]({{ site.baseurl }}{% link _weeks/week2/./week2/Week-2-Notation.ppt) %})
-[Slides](./week2/./week2/Week-2-Notation.ppt))
+[Slides](./week2/./week2/Week-2-Notation.ppt)
 
 Recorded Lecture To be posted
 
