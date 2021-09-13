@@ -18,7 +18,8 @@ toc_icon: "cog"
 - Quinn James (pronouns: he/him)
 
 ## Help Room Hours:     
-- TBD
+-  5-7pm every Monday, Tuesday, Wednesday, and Thursday
+-  Link in Piazza
 
 ## Textbook: 
 
