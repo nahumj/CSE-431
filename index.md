@@ -29,6 +29,7 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
 # Help Room
 - Offered from 5pm-7pm on Mondays, Tuesdays, Wednesdays, and Thursdays in [https://msu.zoom.us/j/91416543573](https://msu.zoom.us/j/91416543573).
 
+<!--
 
 # Current course content
 
@@ -54,3 +55,4 @@ Below are the week-by-week topics that will be covered.  Links will be added at 
 
 
 {% endfor %}
+-->
