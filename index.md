@@ -2,6 +2,7 @@
 layout: single
 title: Course Overview
 toc: true
+toc_levels: 1
 toc_label: "Table of Contents"
 toc_icon: "cog"
 author_info: true
