@@ -1,7 +1,8 @@
 ---
 title: "Week 9: Recursive Techniques"
+
 date: 2021-10-25 00:00:00
----
+
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
 
