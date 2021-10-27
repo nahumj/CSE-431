@@ -46,13 +46,13 @@ def optimal_lengths_memoized(n):
 
 def optimal_lengths_dynamic_programming(n):
     array_of_length_to_best_value = [0] * (n + 1)
-    for subproblem in range(len(array_of_length_to_best_value)):
-        best = 0
+    for subproblem in range(1, len(array_of_length_to_best_value)):
+        array_of_length_to_best_value[subproblem] = array_of_length_to_best_value[subproblem - 1]
+        best = array_of_length_to_best_value[subproblem - 1]
         for feet, pennies in FEET_TO_PENNIES.items():
             if feet > subproblem:
                 continue
-            value = array_of_length_to_best_value[subproblem - feet]
-            value += pennies
+            value = array_of_length_to_best_value[subproblem - feet] + pennies
             if value > best:
                 best = value
                 array_of_length_to_best_value[subproblem] = value
@@ -62,8 +62,10 @@ def optimal_lengths_dynamic_programming(n):
 
 def optimal_lengths_dynamic_programming_with_cuts(n):
     array_of_length_to_best_value_and_lengths = [(0, [])] * (n + 1)
-    for subproblem in range(len(array_of_length_to_best_value_and_lengths)):
-        best = 0
+    for subproblem in range(1, len(array_of_length_to_best_value_and_lengths)):
+        array_of_length_to_best_value_and_lengths[
+            subproblem] = array_of_length_to_best_value_and_lengths[subproblem - 1]
+        best, _ = array_of_length_to_best_value_and_lengths[subproblem]
         for feet, pennies in FEET_TO_PENNIES.items():
             if feet > subproblem:
                 continue
@@ -78,11 +80,11 @@ def optimal_lengths_dynamic_programming_with_cuts(n):
 
 
 if __name__ == "__main__":
-    rope_length = 100
+    rope_length = 31
     while True:
         print(f"Rope length = {rope_length}")
         start_time = time.perf_counter_ns()
-        result = optimal_lengths_dynamic_programming(rope_length)
+        result = optimal_lengths_dynamic_programming_with_cuts(rope_length)
         end_time = time.perf_counter_ns()
 
         print(f"Result = {result}")
