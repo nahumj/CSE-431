@@ -64,8 +64,8 @@ Note that the above restrictions apply only to recordings of class sessions. All
 
 ## Homework assignments
 
-There will be six homework assignments, each worth 10% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
-All assignments will be due at 10pm Michigan time on the due date. 
+There will be six graded homework assignments, each worth 10% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
+All assignments will be due at 10pm Michigan time on the due date. A total of seven homework assignments will be assigned, the lowest scoring assignment will be dropped.
 
 ## Lecture review assignments
 
