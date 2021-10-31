@@ -1,6 +1,6 @@
 ---
 title: "Week 10: Dealing with Hard Problems"
-date: 2020-11-01 00:00:00
+date: 2021-11-01 00:00:00
 ---
 
 **Week of {{ page.date | date: "%-m/%-d" }}**
