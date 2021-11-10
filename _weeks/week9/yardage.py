@@ -80,7 +80,7 @@ def optimal_lengths_dynamic_programming_with_cuts(n):
 
 
 if __name__ == "__main__":
-    rope_length = 31
+    rope_length = 35
     while True:
         print(f"Rope length = {rope_length}")
         start_time = time.perf_counter_ns()
@@ -92,3 +92,4 @@ if __name__ == "__main__":
         print(f"Duration (sec) = {duration}")
         print()
         rope_length *= 2
+        break
