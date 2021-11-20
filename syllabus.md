@@ -67,6 +67,9 @@ Note that the above restrictions apply only to recordings of class sessions. All
 There will be six graded homework assignments, each worth 10% of your final grade.  Assignments will consist of programming projects, with occasional mathematical or short-answer questions.  You must solve the homework on your own.  You may not share code or look at other students’ code. That said, asking questions and discussing higher-level concepts on Piazza is highly encouraged. The best way to understand the subtleties of algorithmic problems is to argue about how to solve them. 
 All assignments will be due at 10pm Michigan time on the due date. A total of seven homework assignments will be assigned, the lowest scoring assignment will be dropped.
 
+Homework assignments will be accepted up to 120 hours (5 days) after the original due date.
+Late assignments will be docked 10% every 24 hours past the deadline.
+
 ## Lecture review assignments
 
 There will be at least 15 lecture review assignments, each worth 1% of your grade. These will be due every Friday at 10pm Michigan time. They will be a mix of multiple choice and short answer questions (no programming) covering the material in the lectures for the week. These assignments are intended to be quick (assuming you paid attention to the lectures) and serve as a way for both you and us to confirm that you’re getting the intended key information out of the lectures. These assignments may not be turned in late, but your lowest 2 scores will be dropped.
